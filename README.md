@@ -28,8 +28,8 @@
 - **Backend:** JavaScript (AppScript), Java 
 - **Frontend & Apps:** JavaFX, JavaScript, TypeScript, Angular, Ionic
 - **En desarrollo:**  
-  - [App híbrida con Ionic + Angular (académico)]([URL_DE_TU_REPO_IONIC](https://github.com/jlarata/habitus))
-  - [App de escritorio con Java + JavaFX]([URL_DE_TU_REPO_JAVAFX](https://github.com/monick96/AppEscritorioGestionPresupuestosMayoristas-Java))
+  - [App híbrida con Ionic + Angular (académico)](https://github.com/jlarata/habitus)
+  - [App de escritorio con Java + JavaFX](https://github.com/monick96/AppEscritorioGestionPresupuestosMayoristas-Java)
 
 ---
 
