@@ -11,18 +11,21 @@
 ---
 
 ## 🛠️ Tecnologías y lenguajes
-
+### 🚀 Tecnologías principales
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaFX-3873AE?style=for-the-badge&logo=java&logoColor=white"/>
 </div>
+### 🧪 Tecnologías exploradas
+<div align="center">
+ <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
+</div>
 
-- **Backend:** JavaScript (AppScript), Java (JavaFX)
-- **Frontend & Apps:** JavaScript, TypeScript, Angular, Ionic
+- **Backend:** JavaScript (AppScript), Java 
+- **Frontend & Apps:** JavaFX, JavaScript, TypeScript, Angular, Ionic
 - **En desarrollo:**  
   - App híbrida con Ionic + Angular (académico)
   - App de escritorio con Java + JavaFX
