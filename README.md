@@ -23,8 +23,8 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
-</div>
-<br>  
+</div> 
+
 - **Backend:** JavaScript (AppScript), Java  
 - **Frontend & Apps:** JavaFX, JavaScript, TypeScript, Angular, Ionic  
 - **En desarrollo:**  
