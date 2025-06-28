@@ -25,6 +25,8 @@
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
 </div>
 
+
+
 - **Backend:** JavaScript (AppScript), Java 
 - **Frontend & Apps:** JavaFX, JavaScript, TypeScript, Angular, Ionic
 - **En desarrollo:**  
