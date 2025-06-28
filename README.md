@@ -24,11 +24,11 @@
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
 </div>
-
-- **Backend:** JavaScript (AppScript), Java 
-- **Frontend & Apps:** JavaFX, JavaScript, TypeScript, Angular, Ionic
+<br>  
+- **Backend:** JavaScript (AppScript), Java  
+- **Frontend & Apps:** JavaFX, JavaScript, TypeScript, Angular, Ionic  
 - **En desarrollo:**  
-  - [App híbrida con Ionic + Angular (académico)](https://github.com/jlarata/habitus)
+  - [App híbrida con Ionic + Angular (académico)](https://github.com/jlarata/habitus)  
   - [App de escritorio con Java + JavaFX](https://github.com/monick96/AppEscritorioGestionPresupuestosMayoristas-Java)
 
 ---
