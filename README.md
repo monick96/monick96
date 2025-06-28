@@ -1,8 +1,6 @@
-# ¡Hola, soy monick96! 👋
+# ¡Hola, soy Monica! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/monica-melgarejo-esquivel-2b1b39164/)](https://www.linkedin.com/in/monica-melgarejo-esquivel-2b1b39164/)
-![Profile Views](https://komarev.com/ghpvc/?username=monick96&color=brightgreen)
-![GitHub Followers](https://img.shields.io/github/followers/monick96?label=Followers&style=flat)
 
 ---
 
