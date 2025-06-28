@@ -54,9 +54,9 @@ Siempre abierta a nuevos proyectos y colaboraciones.
 
 ## 🌱 Pasatiempos
 
-- 📚 Leer
 - 🪴 Plantas
 - 🏋️ Gimnasio
+- 📚 Leer
 
 ---
 
