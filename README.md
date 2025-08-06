@@ -37,7 +37,7 @@
 
 ## 📂 Proyectos destacados
 
-- 💼 [App de escritorio en Java para presupuestos](https://github.com/monick96/AppEscritorioGestionPresupuestosMayoristas-Java) – Hecha para un cliente. Conecta con Google Sheets usando una API que cree en AppScript. Actualmente sigue en uso y sigo haciendo mejoras.
+- 💼 [App de escritorio en Java para presupuestos](https://github.com/monick96/AppEscritorioGestionPresupuestosMayoristas-Java) – (Actualidad). Se conecta con Google Sheets usando una API que cree en AppScript. Actualmente sigue en uso y sigo haciendo mejoras.
 - 📱 [App móvil con Ionic + Angular (académico)](https://github.com/jlarata/habitus)
 
 ---
